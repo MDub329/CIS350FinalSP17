@@ -1,0 +1,16 @@
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.csprojResolveAssemblyReference.cache
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.FinalSp17Form.resources
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.csproj.GenerateResource.Cache
+F:\CIS350\FinalSp17\bin\Debug\LibGArrayList.dll
+F:\CIS350\FinalSp17\bin\Debug\LibGICloneable.dll
+F:\CIS350\FinalSp17\bin\Debug\LibGArrayList.pdb
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.AboutDialog.resources
+F:\CIS350\FinalSp17\bin\Debug\FinalSp17.exe.config
+F:\CIS350\FinalSp17\bin\Debug\FinalSp17.exe
+F:\CIS350\FinalSp17\bin\Debug\FinalSp17.pdb
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.exe
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.pdb
+F:\CIS350\FinalSp17\obj\Debug\FinalSp17.Properties.Resources.resources
+D:\CIS350\FinalSp17\bin\Debug\FinalSp17.exe.config
+D:\CIS350\FinalSp17\obj\Debug\FinalSp17.exe
+D:\CIS350\FinalSp17\obj\Debug\FinalSp17.pdb
